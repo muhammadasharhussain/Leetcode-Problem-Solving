@@ -1,0 +1,17 @@
+int missingNumber(int* nums, int numsSize) {
+    int p;
+    int found;
+
+        for(int j=0;j<=numsSize;j++){
+            found=0;
+            for(int k=0;k<numsSize;k++){
+                if(nums[k]==j){
+                found=1;
+                break;
+                }
+            }
+        if(found==0)
+        p=j;
+        }
+    return p;
+}
