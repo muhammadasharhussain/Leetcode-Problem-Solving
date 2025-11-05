@@ -1,0 +1,15 @@
+#include <math.h>
+int findComplement(int num) {
+    int arr[32];
+    int sum=0;
+    for(int i=0;num>0;i++){
+        arr[i]=num%2;
+        num=num/2;
+        if(arr[i]==1)
+            arr[i]=0;
+        else if(arr[i]==0)
+            arr[i]=1;
+        sum+=arr[i]*(int)pow(2, i);
+    }
+return sum;
+}
