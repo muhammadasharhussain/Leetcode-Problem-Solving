@@ -16,6 +16,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -41,4 +42,13 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
