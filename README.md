@@ -37,4 +37,8 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
