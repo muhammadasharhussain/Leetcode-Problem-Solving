@@ -12,6 +12,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -53,4 +54,8 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
