@@ -7,6 +7,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
@@ -84,4 +85,12 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
