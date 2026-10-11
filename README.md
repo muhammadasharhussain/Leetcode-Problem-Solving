@@ -8,6 +8,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
 ## Binary Search
@@ -79,4 +80,8 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
