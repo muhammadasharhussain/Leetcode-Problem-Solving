@@ -48,6 +48,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -58,4 +59,12 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
