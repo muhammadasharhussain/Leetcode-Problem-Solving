@@ -22,6 +22,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -67,4 +69,8 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
