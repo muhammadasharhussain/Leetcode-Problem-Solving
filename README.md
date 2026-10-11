@@ -8,6 +8,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | [0021-merge-two-sorted-lists](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +78,5 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
