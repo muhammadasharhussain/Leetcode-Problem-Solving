@@ -10,6 +10,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
 ## Binary Search
@@ -34,6 +35,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0414-third-maximum-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
