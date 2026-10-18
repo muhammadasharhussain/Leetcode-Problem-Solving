@@ -95,4 +95,8 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
