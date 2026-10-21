@@ -7,6 +7,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Design
