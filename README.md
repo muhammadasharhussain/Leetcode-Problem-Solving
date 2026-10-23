@@ -68,6 +68,7 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -97,8 +98,14 @@ Practicing problem solving &amp; Leetcode questions to build logical reasoning.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/muhammadasharhussain/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
